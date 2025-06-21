@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>Faculty Center 212</p>
     <p>6300 Ocean Dr.</p>
     <p>Corpus Christi, TX 78412</p>
 
