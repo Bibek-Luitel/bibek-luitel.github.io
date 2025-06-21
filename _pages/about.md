@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tamucc.edu/education/departments/edld/index.php'>Department of Educational Leadership</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.tamucc.edu/education/departments/edld/index.php'>Department of Educational Leadership</a>.
 
 profile:
   align: right
