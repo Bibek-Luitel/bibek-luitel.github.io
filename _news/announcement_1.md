@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I advanced to candidacy and I am a PhD candidate :man_student:	
+I advanced to candidacy and I am a doctoral candidate :man_student:	
