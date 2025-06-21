@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Educational Leadership, Texas A&M University-Corpus Christi</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Department of Educational Leadership</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -26,8 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a doctoral candidate.
 
+I am a doctoral candidate in the department of educational leadership at Texas A&M University-Corpus Christi.
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
