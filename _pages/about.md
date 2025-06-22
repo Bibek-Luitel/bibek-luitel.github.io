@@ -26,6 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+
 I am a doctoral candidate in the [Department of Educational Leadership](https://www.tamucc.edu/education/departments/edld/index.php) at [Texas A&M University-Corpus Christi](https://www.tamucc.edu/).
 
  
