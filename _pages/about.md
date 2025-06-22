@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tamucc.edu/education/departments/edld/index.php'>Department of Educational Leadership</a></p><p>(https://www.tamucc.edu/)[Texas A&M University-Corpus Christi]</p>
+subtitle: <a href='https://www.tamucc.edu/education/departments/edld/index.php'>Department of Educational Leadership</a><br>'https://www.tamucc.edu'>Texas A&M University-Corpus Christi<
 profile:
   align: right
   image: prof_pic.jpg
