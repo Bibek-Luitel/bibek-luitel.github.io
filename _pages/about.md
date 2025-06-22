@@ -31,7 +31,7 @@ I am a doctoral candidate in the [Department of Educational Leadership](https://
 
  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+With a focus on higher education finance, I'm a passionate researcher in educational leadership, diving into student financial aid and loans. My work examines the impact of student financial aid and loans on access and equity. I am interested in leveraging advanced quantitative statistical methods, machine learning, and deep learning to extract actionable insights from complex data. My objective is to engage in scientific inquiry into higher education finance to understand the contradictions, complexities, and nuances in student financial aid. 
 
 
 
