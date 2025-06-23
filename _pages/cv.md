@@ -9,3 +9,4 @@ description: THIS IS DUMMY This is a description of the page. You can modify it 
 toc:
   sidebar: left
 ---
+<meta http-equiv="refresh" content="0; url=/assets/pdf/cv_academic_bibekluitel.pdf">
