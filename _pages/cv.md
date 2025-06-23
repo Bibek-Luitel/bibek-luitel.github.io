@@ -9,3 +9,5 @@ description: THIS IS DUMMY This is a description of the page. You can modify it 
 toc:
   sidebar: left
 ---
+
+[Download CV](assets/pdf/cv_academic_bibekluitel.pdf){:target="_blank"}
