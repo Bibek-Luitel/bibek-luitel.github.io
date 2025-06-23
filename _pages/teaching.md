@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Highlights of my teaching practices as the main instructor.
+description: Highlights of my teaching experience as a main instructor.
 nav: true
 nav_order: 6
 ---
