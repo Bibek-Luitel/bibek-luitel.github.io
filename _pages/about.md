@@ -31,8 +31,12 @@ latest_posts:
 I am a doctoral candidate in the [Department of Educational Leadership](https://www.tamucc.edu/education/departments/edld/index.php) at [Texas A&M University-Corpus Christi](https://www.tamucc.edu/).
 
  
+My research focuses on higher education finance, student financial aid, and the access and affordability of higher education for students from low socioeconomic backgrounds. As a scholar, I have co-authored research reports, books, and articles. I have presented my work at notable conferences, including the American Educational Research Association (AERA), the International Council of Professors of Educational Leadership (ICPEL), and the Southwest Educational Research Association (SERA).
 
-With a focus on higher education finance, I'm a passionate researcher in educational leadership, diving into student financial aid and loans. My work examines the impact of student financial aid and loans on access and equity. I am interested in leveraging advanced quantitative statistical methods, machine learning, and deep learning to extract actionable insights from complex data. My objective is to engage in scientific inquiry into higher education finance to understand the contradictions, complexities, and nuances in student financial aid. 
+I have served in academia for over a decade as a faculty member, teaching management courses to both graduate and undergraduate students. I have worked with nonprofit organizations in various capacities to support the education of underserved populations.
+
+For a comprehensive overview of my work, please refer to my [CV](https://bibekluitel.com/assets/pdf/cv_academic_bibekluitel.pdf) and [publications](https://bibekluitel.com/publications/).
+
 
 
 
