@@ -33,6 +33,6 @@ nav_order: 6
 | 2007–2010   | Business Environment          | Tribhuvan University, Everest College, Nepal               |
 | 2007–2010   | Management of Technology      | Tribhuvan University, Everest College, Nepal               |
 | 2007–2010   | Industrial Relations          | Tribhuvan University, Everest College, Nepal               |
-| 2007–2010   | Human Resources Management    | Tribhuvan University, Everest College, Nepal               |
+| 2007–2010   | Human Resource Management     | Tribhuvan University, Everest College, Nepal               |
 
 
