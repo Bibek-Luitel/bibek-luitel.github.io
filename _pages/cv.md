@@ -10,5 +10,5 @@ toc:
   sidebar: left
 ---
 
-<meta http-equiv="refresh" content="0; url=/assets/pdf/cv_academic_bibekluitel.pdf">
-<a href="/assets/pdf/cv_academic_bibekluitel.pdf" target="_blank">CV</a>
+
+<a href="/assets/pdf/cv_academic_bibekluitel.pdf" target="_blank">
