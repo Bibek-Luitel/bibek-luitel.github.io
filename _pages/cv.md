@@ -12,9 +12,17 @@ toc:
 
 
 
-<script>
-  window.onload = function() {
-    window.open("/assets/pdf/cv_academic_bibekluitel.pdf", "_blank");
-    window.location.href = "/";
-  };
-</script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      window.onload = function() {
+        window.open("/assets/pdf/cv_academic_bibekluitel.pdf", "_blank");
+        window.location.href = "/";
+      };
+    </script>
+  </head>
+  <body>
+    <p>Opening CV...</p>
+  </body>
+</html>
