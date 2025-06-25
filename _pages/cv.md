@@ -4,15 +4,12 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: cv.pdf # you can also use external links here
+cv_pdf: cv_academic_bibekluitel.pdf # you can also use external links here
 description: THIS IS DUMMY This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
 ---
 
+<a href="{{ site.baseurl }}/cv_academic_bibekluitel.pdf" target="_blank" class="btn btn--primary">Open CV in New Tab</a>
 
-<script>
-  window.open("/assets/pdf/cv_academic_bibekluitel.pdf", "_blank");
-  window.location.href = "/";
-</script>
 
