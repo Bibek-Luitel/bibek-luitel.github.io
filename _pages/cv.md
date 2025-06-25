@@ -11,5 +11,8 @@ toc:
 ---
 
 
-<meta http-equiv="refresh" content="0; url=/assets/pdf/cv_academic_bibekluitel.pdf">
+<script>
+  window.open("/assets/pdf/cv_academic_bibekluitel.pdf", "_blank");
+  window.location.href = "/";
+</script>
 
