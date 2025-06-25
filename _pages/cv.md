@@ -10,6 +10,6 @@ toc:
   sidebar: left
 ---
 
-<a href="{{ site.baseurl }}/cv_academic_bibekluitel.pdf" target="_blank" class="btn btn--primary">Open CV in New Tab</a>
+<meta http-equiv="refresh" content="0; url=/assets/pdf/cv_academic_bibekluitel.pdf">
 
 
