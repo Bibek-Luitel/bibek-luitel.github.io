@@ -12,4 +12,5 @@ toc:
 
 <script>
   window.open("/assets/pdf/cv_academic_bibekluitel.pdf", "_blank");
+  window.location.href = "/";
 </script>
