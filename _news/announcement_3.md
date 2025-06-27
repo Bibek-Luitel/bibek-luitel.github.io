@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defend doctoral dissertation proposal :man_student:	
+I successfully defend dissertation proposal :man_student:	
