@@ -12,5 +12,7 @@ toc:
 
 <script>
   window.open("/assets/pdf/cv_academic_bibekluitel.pdf", "_blank");
-  window.location.href = "/";
+  setTimeout(function () {
+    window.location.href = "/";
+  }, 300); // delay in milliseconds
 </script>
