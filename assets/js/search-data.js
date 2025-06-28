@@ -433,7 +433,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-advanced-to-candidacy-and-i-am-a-doctoral-candidate-man-student",
+            },},{id: "news-attened-pathways-to-profession-p2p-symposium-held-in-tarleton-state-university-sponsored-by-tamus",
+          title: 'Attened Pathways to Profession (P2P) Symposium held in Tarleton State University sponsored by...',
+          description: "",
+          section: "News",},{id: "news-i-advanced-to-candidacy-and-i-am-a-doctoral-candidate-man-student",
           title: 'I advanced to candidacy and I am a doctoral candidate :man_student:',
           description: "",
           section: "News",},{id: "news-presentated-my-research-at-the-aera-annual-confernce-in-denver-colorado",
