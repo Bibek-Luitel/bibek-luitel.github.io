@@ -438,11 +438,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-advanced-to-candidacy-and-i-am-a-doctoral-candidate-man-student",
+            },},{id: "news-i-advanced-to-candidacy-and-i-am-a-doctoral-candidate-man-student",
           title: 'I advanced to candidacy and I am a doctoral candidate :man_student:',
+          description: "",
+          section: "News",},{id: "news-microphone-presentated-my-research-at-the-aera-annual-confernce-in-denver-colorado",
+          title: '🎤 Microphone Presentated my research at the AERA Annual Confernce in Denver, Colorado....',
           description: "",
           section: "News",},{id: "news-i-successfully-defend-dissertation-proposal-man-student",
           title: 'I successfully defend dissertation proposal :man_student:',
