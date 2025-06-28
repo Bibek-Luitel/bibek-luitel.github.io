@@ -21,7 +21,7 @@ nav_order: 6
 | 2010–2016   | Organizational Development    | Bharathiar University, IB&MS College, Nepal                |
 | 2011–2012   | Principles of Management      | Tribhuvan University, Kavre Multiple Campus, Nepal         |
 
-<br><br>
+<br>
 
 
 ##### Undergraduate Courses (Bachelor’s Level)
