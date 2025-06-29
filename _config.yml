@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: review-reflect-recreate # blog_name will be displayed in your blog page
-blog_description: rethinking systems, reshaping practice, and renewing purpose
+blog_description: (this page is under construction) rethinking systems, reshaping practice, and renewing purpose
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
