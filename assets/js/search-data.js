@@ -428,16 +428,16 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-open-heart-open-mind",
+      },{id: "books-long-walk-to-freedom",
+          title: 'Long Walk to Freedom',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/long_walk_to_freedom/";
+            },},{id: "books-open-heart-open-mind",
           title: 'Open Heart, Open Mind',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/open_heart_open_mind/";
-            },},{id: "books-long-walk-to-freedom",
-          title: 'Long Walk to Freedom',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "books-the-story-of-my-experiments-with-truth",
           title: 'The Story of My Experiments with Truth',
           description: "",
