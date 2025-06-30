@@ -428,8 +428,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-open-heart-open-mind",
+          title: 'Open Heart, Open Mind',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/open_heart_open_mind/";
