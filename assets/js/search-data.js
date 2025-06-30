@@ -433,6 +433,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-the-story-of-my-experiments-with-truth",
+          title: 'The Story of My Experiments with Truth',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_story_of_my_experiments_with_truth/";
             },},{id: "news-attened-pathways-to-profession-p2p-symposium-at-tarleton-state-university-sponsored-by-tamus",
           title: 'Attened Pathways to Profession (P2P) Symposium at Tarleton State University sponsored by TAMUS....',
           description: "",
