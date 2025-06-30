@@ -448,6 +448,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_story_of_my_experiments_with_truth/";
+            },},{id: "books-the-tibetan-book-of-living-and-dying",
+          title: 'the tibetan book of living and dying',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_tibetan_book_of_living_and_dying/";
             },},{id: "news-attened-pathways-to-profession-p2p-symposium-at-tarleton-state-university-sponsored-by-tamus",
           title: 'Attened Pathways to Profession (P2P) Symposium at Tarleton State University sponsored by TAMUS....',
           description: "",
