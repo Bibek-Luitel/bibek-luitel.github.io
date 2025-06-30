@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: mindful moments # blog_name will be displayed in your blog page
-blog_description: (this page is under construction) rethinking systems, reshaping practice, and renewing purpose
+blog_description: (this page is under construction) a space to notice, breathe, and grow
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
