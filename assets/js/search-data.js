@@ -428,7 +428,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-einstein",
+      },{id: "books-democracy-and-education",
+          title: 'democracy and education',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/democracy_and_education/";
+            },},{id: "books-einstein",
           title: 'Einstein',
           description: "",
           section: "Books",handler: () => {
