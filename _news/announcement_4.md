@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎤  Presentated my research at the AERA Annual Confernce in Denver, Colorado.
+:microphone:Presentated my research at the AERA Annual Confernce in Denver, Colorado.
