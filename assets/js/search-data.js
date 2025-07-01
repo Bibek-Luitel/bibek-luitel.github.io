@@ -429,7 +429,7 @@ ninja.data = [{
           
         },
       },{id: "books-democracy-and-education",
-          title: 'democracy and education',
+          title: 'Democracy and Education',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/democracy_and_education/";
@@ -454,7 +454,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_story_of_my_experiments_with_truth/";
             },},{id: "books-the-tibetan-book-of-living-and-dying",
-          title: 'the tibetan book of living and dying',
+          title: 'The Tibetan Book of Living and Dying',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_tibetan_book_of_living_and_dying/";
