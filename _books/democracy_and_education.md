@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: democracy and education
+title: Democracy and Education
 author: John Dewey
 cover: assets/img/book_covers/democracy_and_education.jpg
 categories: Education Philosophy

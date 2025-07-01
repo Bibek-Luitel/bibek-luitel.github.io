@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: the tibetan book of living and dying
+title: The Tibetan Book of Living and Dying
 author: Sogyal Rinpoche
 cover: assets/img/book_covers/the_tibetan_book_of _living_and_dying.jpg
 categories: speritual
