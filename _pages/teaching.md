@@ -18,8 +18,8 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 | Years       | Course Title(s)                                                        | University & College                                |
 |-------------|------------------------------------------------------------------------|-----------------------------------------------------|
 | 2017–2022   | Research Methodology, Project Management                               | Tribhuvan University, K&K International College     |
-| 2010–2016   | Strategic Management, Indian and Global Context                        | Bharathiar University, IB&MS College                |
-|             | Human Resource Management, Principles of Management, Organizational Development |                                                     |
+| 2010–2016   | Strategic Management, Indian and Global Context, Human Resource Management | Bharathiar University, IB&MS College                |
+|             | Principles of Management, Organizational Development                   |                                                     |
 | 2011–2012   | Principles of Management                                               | Tribhuvan University, Kavre Multiple Campus         |
 
 <br>
@@ -29,7 +29,7 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 | Years       | Course Title(s)                                                        | University & College                                |
 |-------------|------------------------------------------------------------------------|-----------------------------------------------------|
 | 2008–2011   | Office Management                                                      | Tribhuvan University, Kathmandu Forestry College    |
-| 2007–2010   | Business Environment, Management of Technology                         | Tribhuvan University, Everest College               |
-|             | Industrial Relations, Human Resource Management                        |                                                     |
+| 2007–2010   | Business Environment, Management of Technology, Industrial Relations, Human Resource Management | Tribhuvan University, Everest College               |
+
 
 
