@@ -15,19 +15,21 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 
 #### Graduate Courses (Master’s Level)
 
-| Years       | Course Title(s)                                              | University & College                                |
-|-------------|--------------------------------------------------------------|-----------------------------------------------------|
-| 2017–2022   | Research Methodology, <br>Project Management                 | Tribhuvan University, K&K International College     |
-| 2010–2016   | Strategic Management, Indian and Global Context, <br>Human Resource Management, <br>Principles of Management, Organizational Development | Bharathiar University, IB&MS College                |
-| 2011–2012   | Principles of Management                                     | Tribhuvan University, Kavre Multiple Campus         |
+| Years       | Course Title(s)                                                        | University & College                                |
+|-------------|------------------------------------------------------------------------|-----------------------------------------------------|
+| 2017–2022   | Research Methodology, Project Management                               | Tribhuvan University, K&K International College     |
+| 2010–2016   | Strategic Management, Indian and Global Context                        | Bharathiar University, IB&MS College                |
+|             | Human Resource Management, Principles of Management, Organizational Development |                                                     |
+| 2011–2012   | Principles of Management                                               | Tribhuvan University, Kavre Multiple Campus         |
 
 <br>
 
 #### Undergraduate Courses (Bachelor’s Level)
 
-| Years       | Course Title(s)                                              | University & College                                |
-|-------------|--------------------------------------------------------------|-----------------------------------------------------|
-| 2008–2011   | Office Management                                            | Tribhuvan University, Kathmandu Forestry College    |
-| 2007–2010   | Business Environment, <br>Management of Technology, <br>Industrial Relations, Human Resource Management | Tribhuvan University, Everest College               |
+| Years       | Course Title(s)                                                        | University & College                                |
+|-------------|------------------------------------------------------------------------|-----------------------------------------------------|
+| 2008–2011   | Office Management                                                      | Tribhuvan University, Kathmandu Forestry College    |
+| 2007–2010   | Business Environment, Management of Technology                         | Tribhuvan University, Everest College               |
+|             | Industrial Relations, Human Resource Management                        |                                                     |
 
 
