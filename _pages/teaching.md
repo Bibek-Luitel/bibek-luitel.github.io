@@ -32,10 +32,11 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 
 | Date         | Institution & University                             | Course                                 |
 |--------------|------------------------------------------------------|----------------------------------------|
-| 2007–2010    | Everest College, Tribhuvan University, Nepal         | MGT 206: Business Environment          |
+| 2007–2010    | Everest College, Tribhuvan University, Nepal&nbsp;&nbsp;&nbsp;&nbsp; | MGT 206: Business Environment          |
 | &nbsp;       | &nbsp;                                               | IMM 205: Management of Technology      |
 | &nbsp;       | &nbsp;                                               | IMM 208: Industrial Relations          |
 | &nbsp;       | &nbsp;                                               | MGT 202: Human Resources Management    |
+
 
 
 
