@@ -448,6 +448,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/open_heart_open_mind/";
+            },},{id: "books-the-7-habits-of-highly-effective-people",
+          title: 'The 7 Habits of Highly Effective People',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/seven_habits/";
             },},{id: "books-the-story-of-my-experiments-with-truth",
           title: 'The Story of My Experiments with Truth',
           description: "",
