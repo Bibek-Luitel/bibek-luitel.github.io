@@ -14,23 +14,29 @@ With over a decade of teaching experience, I have served as a main instructor fo
 I believe effective teaching goes beyond content delivery, it is about fostering curiosity, critical thinking, and practical application. My teaching philosophy centers on learner engagement, contextual relevance, and inclusive pedagogy. I strive to create a dynamic learning environment where students are encouraged to connect theoretical knowledge with real-world challenges.
 
 
-#### Graduate Courses (Master’s Level)
 
-| Years       | Course Title(s)                                                                                   | University & College                                |
-|-------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 2017–2022   | Research Methodology, Project Management                                                          | Tribhuvan University, K&K International College     |
-| 2010–2016   | Strategic Management, Indian and Global Context, Human Resource Management                        | Bharathiar University, IB&MS College                |
-|             | Principles of Management, Organizational Development                                              |                                                     |
-| 2011–2012   | Principles of Management                                                                          | Tribhuvan University, Kavre Multiple Campus         |
+#### Graduate Courses
 
-<br>
+| Years        | Institution & University                             | Course                        |
+|--------------|------------------------------------------------------|--------------------------------------|
+| 2017–2022    | K&K Int'l College, Tribhuvan University, Nepal       | MSC 521: Research Methodology        |
+|              |                                                      | RDS 564: Project Management          |
+| 2010–2016    | IB&MS College, Bharathiar University, India          | MBAC 2005: Strategic Management      |
+|              |                                                      | MBAC 2003: Human Resources Management|
+|              |                                                      | MBAC 1001: Principles of Management  |
+|              |                                                      | MBHR 4001: Organizational Development|
+| 2011–2012    | Kavre Multiple Campus, Tribhuvan University, Nepal   | MGT 513: Human Resource Management   |
 
-#### Undergraduate Courses (Bachelor’s Level)
+<br/>
 
-| Years       | Course Title(s)                                                                                   | University & College                                |
-|-------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 2008–2011   | Office Management                                                                                 | Tribhuvan University, Kathmandu Forestry College    |
-| 2007–2010   | Business Environment, Management of Technology, Industrial Relations, Human Resource Management   | Tribhuvan University, Everest College               |
+#### Undergraduate Courses
+
+| Years        | Institution & University                             | Course                        |
+|--------------|------------------------------------------------------|--------------------------------------|
+| 2007–2010    | Everest College, Tribhuvan University, Nepal         | MGT 206: Business Environment        |
+|              |                                                      | IMM 205: Management of Technology    |
+|              |                                                      | IMM 208: Industrial Relations        |
+|              |                                                      | MGT 202: Human Resources Management  |
 
 
 
