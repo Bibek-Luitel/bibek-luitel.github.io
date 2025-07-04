@@ -15,9 +15,9 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 
 
 
-##### Graduate Courses
+##### Graduate Course
 
-| Years        | Institution & University                             | Course                        |
+| Date         | Institution & University                             | Course                        |
 |--------------|------------------------------------------------------|--------------------------------------|
 | 2017–2022    | K&K Int'l College, Tribhuvan University, Nepal       | MSC 521: Research Methodology        |
 |              |                                                      | RDS 564: Project Management          |
@@ -29,9 +29,9 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 
 <br/>
 
-##### Undergraduate Courses
+##### Undergraduate Course
 
-| Years        | Institution & University                             | Course                        |
+| Date         | Institution & University                             | Course                        |
 |--------------|------------------------------------------------------|--------------------------------------|
 | 2007–2010    | Everest College, Tribhuvan University, Nepal         | MGT 206: Business Environment        |
 |              |                                                      | IMM 205: Management of Technology    |
