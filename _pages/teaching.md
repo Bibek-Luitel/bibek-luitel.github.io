@@ -15,7 +15,7 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 
 
 
-#### Graduate Courses
+##### Graduate Courses
 
 | Years        | Institution & University                             | Course                        |
 |--------------|------------------------------------------------------|--------------------------------------|
@@ -29,7 +29,7 @@ I believe effective teaching goes beyond content delivery, it is about fostering
 
 <br/>
 
-#### Undergraduate Courses
+##### Undergraduate Courses
 
 | Years        | Institution & University                             | Course                        |
 |--------------|------------------------------------------------------|--------------------------------------|
