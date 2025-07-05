@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "This page is under construction. Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "A curated collection of academic, research, and data science works showcasing skills, tools, and insights.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
