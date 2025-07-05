@@ -438,6 +438,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/einstein/";
+            },},{id: "books-fifth-discipline",
+          title: 'Fifth Discipline',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/fifth_discipline/";
+            },},{id: "books-good-to-great",
+          title: 'Good to Great',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/good_to_great/";
             },},{id: "books-long-walk-to-freedom",
           title: 'Long Walk to Freedom',
           description: "",
@@ -448,6 +458,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/open_heart_open_mind/";
+            },},{id: "books-power-of-now",
+          title: 'Power of Now',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/power_of_now/";
             },},{id: "books-the-7-habits-of-highly-effective-people",
           title: 'The 7 Habits of Highly Effective People',
           description: "",
