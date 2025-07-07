@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: A snapshot of my teaching experience, philosophy, and contributions to higher education instruction.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ##### **Overview**
