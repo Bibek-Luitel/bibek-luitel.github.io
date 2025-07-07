@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tamucc.edu/'>Texas A&M University-Corpus Christi</a>
+subtitle: Doctoral Candidate | Student Aid & Policy | Quantitative Inquiry <br> <a href='https://www.tamucc.edu/'>Texas A&M University-Corpus Christi</a>
 profile:
   align: right
   image: prof_pic.jpg
