@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grocery Sales Forecasting
-description: with background image
+description: Multivariate analysis of grocery wholesale sales using MANOVA, factor analysis, PCA, and clustering techniques.
 img: assets/img/grocery.jpg
 importance: 1
 category: work

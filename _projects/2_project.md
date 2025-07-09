@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scholarship Prediction ML Model
-description: a project with a background image and giscus comments
+description: Binary classification of scholarship eligibility using SVM, logistic regression, and neural networks.
 img: assets/img/scholarship.jpg
 importance: 2
 category: work
