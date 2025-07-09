@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scholarship Prediction ML Model
+title: Scholarship Prediction
 description: Binary classification of scholarship eligibility.
 img: assets/img/scholarship.jpg
 importance: 2
