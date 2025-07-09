@@ -138,12 +138,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-grocery-sales-forecasting",
           title: 'Grocery Sales Forecasting',
-          description: "Multivariate analysis of grocery wholesale sales using MANOVA, factor analysis, PCA, and clustering techniques.",
+          description: "Multivariate analysis of grocery wholesale sales.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-scholarship-prediction-ml-model",
           title: 'Scholarship Prediction ML Model',
-          description: "Binary classification of scholarship eligibility using SVM, logistic regression, and neural networks.",
+          description: "Binary classification of scholarship eligibility.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-5",
