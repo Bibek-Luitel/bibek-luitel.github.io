@@ -141,8 +141,8 @@ ninja.data = [{
           description: "Multivariate analysis of grocery wholesale sales.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-scholarship-prediction-ml-model",
-          title: 'Scholarship Prediction ML Model',
+            },},{id: "projects-scholarship-prediction",
+          title: 'Scholarship Prediction',
           description: "Binary classification of scholarship eligibility.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
