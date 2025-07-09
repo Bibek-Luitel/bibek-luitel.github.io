@@ -136,13 +136,13 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-defended-dissertation-proposal-man-student",
           title: 'I successfully defended dissertation proposal :man_student:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-grocery-sales-forecasting",
+          title: 'Grocery Sales Forecasting',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-scholarship-prediction-ml-model",
+          title: 'Scholarship Prediction ML Model',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
