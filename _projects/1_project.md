@@ -7,6 +7,10 @@ importance: 1
 category: work
 related_publications: true
 ---
+Please follow the link for the [Grocery Sales Forecasting Project](https://github.com/Bibek-Luitel/grocery-sales-multivariate-analysis) 
+<br>
+This page is under construction.
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
