@@ -35,7 +35,7 @@ My research focuses on higher education finance, student financial aid, and the 
 
 I have served in academia for over a decade as a faculty member, teaching management courses to both graduate and undergraduate students. I have worked with nonprofit organizations in various capacities to support the education of underserved populations.
 
-For a comprehensive overview of my work, please refer to my [CV](https://bibekluitel.com/assets/pdf/cv_academic_bibekluitel.pdf) and [publications](https://bibekluitel.com/publications/).
+For a comprehensive overview of my work, please refer to my [CV](https://bibekluitel.com/assets/pdf/cv_full_bibekluitel.pdf) and [publications](https://bibekluitel.com/publications/).
 
 
 
