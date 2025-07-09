@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scholarship Prediction ML Model
-description: Binary classification of scholarship eligibility using SVM, logistic regression, and neural networks.
+description: Binary classification of scholarship eligibility.
 img: assets/img/scholarship.jpg
 importance: 2
 category: work
