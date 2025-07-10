@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:microphone:Presentated my research at the STAR Global Confernce in Kathmendu, Nepal.
+:microphone:Presentated my research at the STAR Global Confernce in Kathmandu, Nepal.
