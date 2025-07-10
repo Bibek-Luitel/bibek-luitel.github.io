@@ -121,7 +121,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_story_of_my_experiments_with_truth/";
-            },},{id: "news-microphone-presentated-my-research-at-the-icpel-confernce-in-san-antonio-texas",
+            },},{id: "news-microphone-presentated-my-research-at-the-the-18th-annual-tamus-pathways-student-research-symposium-at-texas-a-amp-amp-m-university-at-galveston",
+          title: ':microphone:Presentated my research at the the 18th Annual TAMUS Pathways Student Research Symposium...',
+          description: "",
+          section: "News",},{id: "news-microphone-presentated-my-research-at-the-icpel-confernce-in-san-antonio-texas",
           title: ':microphone:Presentated my research at the ICPEL confernce in San Antonio, Texas.',
           description: "",
           section: "News",},{id: "news-microphone-presentated-my-research-at-the-star-global-confernce-in-kathmandu-nepal",
