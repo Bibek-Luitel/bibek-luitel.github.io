@@ -121,8 +121,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_story_of_my_experiments_with_truth/";
-            },},{id: "news-microphone-presentated-my-research-at-the-star-global-confernce-in-kathmendu-nepal",
-          title: ':microphone:Presentated my research at the STAR Global Confernce in Kathmendu, Nepal.',
+            },},{id: "news-microphone-presentated-my-research-at-the-star-global-confernce-in-kathmandu-nepal",
+          title: ':microphone:Presentated my research at the STAR Global Confernce in Kathmandu, Nepal.',
           description: "",
           section: "News",},{id: "news-attened-pathways-to-profession-p2p-symposium-at-tarleton-state-university-sponsored-by-tamus",
           title: 'Attened Pathways to Profession (P2P) Symposium at Tarleton State University sponsored by TAMUS....',
