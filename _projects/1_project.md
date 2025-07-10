@@ -2,7 +2,7 @@
 layout: page
 title: Grocery Sales Forecasting
 description: Multivariate analysis of grocery wholesale sales.
-img: assets/img/grocery.jpg
+img: assets/img/V2_grocery.jpg
 importance: 1
 category: work
 related_publications: true

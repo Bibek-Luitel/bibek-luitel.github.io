@@ -2,7 +2,7 @@
 layout: page
 title: Scholarship Prediction
 description: Binary classification of scholarship eligibility.
-img: assets/img/scholarship.jpg
+img: assets/img/V2_scholarship.jpg
 importance: 2
 category: work
 giscus_comments: true
