@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attened Pathways to Profession (P2P) Symposium at Tarleton State University sponsored by TAMUS.	
+💡Attened Pathways to Profession (P2P) Symposium at Tarleton State University sponsored by TAMUS, Stephenville, Texas	
