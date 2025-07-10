@@ -4,6 +4,7 @@ title: bookshelf
 permalink: /books/
 nav: false
 collection: books
+display catagories: [Leadership, Biography, Inspiration] 
 ---
 
 > "The reading of all good books is like a conversation with the finest minds of past centuries."
