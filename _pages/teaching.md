@@ -15,15 +15,15 @@ I believe effective teaching goes beyond content delivery to foster curiosity, c
 
 ##### **Graduate Course**
 
-| Date        | Institution & University                           | Course                                 |
-|------------ |----------------------------------------------------|----------------------------------------|
-| 2017–2022   | K&K Int’l College, Tribhuvan University, Nepal     | MSC 521: Research Methodology          |
-|             |                                                    | RDS 564: Project Management            |
-| 2010–2016   | IB&MS College, Kathmandu; Affiliated with Bharathiar University, India        | MBAC 2005: Strategic Management        |
-|             |                                                    | MBAC 2003: Human Resources Management  |
-|             |                                                    | MBAC 1001: Principles of Management    |
-|             |                                                    | MBHR 4001: Organizational Development  |
-| 2011–2012   | Kavre Multiple Campus, Tribhuvan University, Nepal | MGT 513: Human Resource Management     |
+| Date       | Institution & University                           | Course                                 |
+|------------|----------------------------------------------------|----------------------------------------|
+| 2017–2022  | K&K Int’l College, Tribhuvan University, Nepal     | MSC 521: Research Methodology          |
+|            |                                                    | RDS 564: Project Management            |
+| 2010–2016  | IB&MS College, (Affl. with Bharathiar University)  | MBAC 2005: Strategic Management        |
+|            |                                                    | MBAC 2003: Human Resources Management  |
+|            |                                                    | MBAC 1001: Principles of Management    |
+|            |                                                    | MBHR 4001: Organizational Development  |
+| 2011–2012  | Kavre Multiple Campus, Tribhuvan University, Nepal | MGT 513: Human Resource Management     |
 
 <br>
 
