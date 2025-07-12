@@ -137,12 +137,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-defended-dissertation-proposal-man-student",
           title: 'I successfully defended dissertation proposal :man_student:',
           description: "",
-          section: "News",},{id: "projects-grocery",
-          title: 'Grocery',
-          description: "Multivariate analysis of grocery wholesale sales.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
-            },},{id: "projects-grocery-sales-forecasting",
+          section: "News",},{id: "projects-grocery-sales-forecasting",
           title: 'Grocery Sales Forecasting',
           description: "Multivariate analysis of grocery wholesale sales.",
           section: "Projects",handler: () => {
