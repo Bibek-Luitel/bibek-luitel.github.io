@@ -6,11 +6,11 @@ description: A collection of still moments from a moving life.
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
-#images:
-#  lightbox2: true
-#  photoswipe: true
-# spotlight: true
-# venobox: true
+images:
+  lightbox2: false
+  photoswipe: false
+  spotlight: false
+  venobox: false
 
 ---
 
