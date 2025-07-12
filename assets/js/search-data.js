@@ -65,11 +65,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-moments-in-pictures",
         
-          title: "a post with image galleries",
+          title: "moments in pictures",
         
-        description: "this is what included image galleries could look like",
+        description: "A collection of still moments from a moving life.",
         section: "Posts",
         handler: () => {
           
