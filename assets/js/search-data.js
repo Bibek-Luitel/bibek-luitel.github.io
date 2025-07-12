@@ -65,18 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-moments-in-pictures",
-        
-          title: "moments in pictures",
-        
-        description: "A collection of still moments from a moving life.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "books-democracy-and-education",
+            },{id: "books-democracy-and-education",
           title: 'Democracy and Education',
           description: "",
           section: "Books",handler: () => {
