@@ -13,32 +13,21 @@ With over a decade of teaching experience, I have served as the main instructor 
 ##### **Philosophy**
 I believe effective teaching goes beyond content delivery to foster curiosity, critical thinking, and practical application, guided by a philosophy centered on learner engagement, contextual relevance, and inclusive pedagogy that cultivates a dynamic environment where students connect theory with real-world challenges.
 
-##### **Graduate Course**
+#### **Teaching Summary**
 
-###### **Date            Institution & University                            Course**
-2017–2022               K&K Int'l College, Tribhuvan University, Nepal      MSC 521: Research Methodology
-                                                                            RDS 564: Project Management
-
-| Date       | Institution & University                           | Course                                 |
-|------------|----------------------------------------------------|----------------------------------------|
-| 2017–2022  | K&K Int’l College, Tribhuvan University, Nepal     | MSC 521: Research Methodology          |
-|            |                                                    | RDS 564: Project Management            |
-| 2010–2016  | IB&MS College, (Affl. with Bharathiar University)  | MBAC 2005: Strategic Management        |
-|            |                                                    | MBAC 2003: Human Resources Management  |
-|            |                                                    | MBAC 1001: Principles of Management    |
-|            |                                                    | MBHR 4001: Organizational Development  |
-| 2011–2012  | Kavre Multiple Campus, Tribhuvan University, Nepal | MGT 513: Human Resource Management     |
-
-<br>
-
-##### **Undergraduate Course**
-
-| Date       | Institution & University                           | Course                                 |
-|------------|----------------------------------------------------|----------------------------------------|
-| 2007–2010  | Everest College, Tribhuvan University, Nepal       | MGT 206: Business Environment          |
-|            |                                                    | IMM 205: Management of Technology      |
-|            |                                                    | IMM 208: Industrial Relations          |
-|            |                                                    | MGT 202: Human Resources Management    |
+| Date       | Level         | Institution & University                           | Course                                 |
+|------------|---------------|-----------------------------------------------------|----------------------------------------|
+| 2017–2022  | Graduate      | K&K Int’l College, Tribhuvan University, Nepal      | MSC 521: Research Methodology          |
+|            |               |                                                     | RDS 564: Project Management            |
+| 2010–2016  | Graduate      | IB&MS College (Affl. with Bharathiar University)    | MBAC 2005: Strategic Management        |
+|            |               |                                                     | MBAC 2003: Human Resources Management  |
+|            |               |                                                     | MBAC 1001: Principles of Management    |
+|            |               |                                                     | MBHR 4001: Organizational Development  |
+| 2011–2012  | Graduate      | Kavre Multiple Campus, Tribhuvan University, Nepal  | MGT 513: Human Resource Management     |
+| 2007–2010  | Undergraduate | Everest College, Tribhuvan University, Nepal        | MGT 206: Business Environment          |
+|            |               |                                                     | IMM 205: Management of Technology      |
+|            |               |                                                     | IMM 208: Industrial Relations          |
+|            |               |                                                     | MGT 202: Human Resources Management    |
 
 
 
