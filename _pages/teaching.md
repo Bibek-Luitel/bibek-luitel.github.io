@@ -18,7 +18,7 @@ I believe effective teaching goes beyond content delivery to foster curiosity, c
 
 <style>
 table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-th, td { padding: 8px; text-align: left; border: 1px solid #ddd; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+th, td { padding: 8px; text-align: left; border: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 th:nth-child(1), td:nth-child(1) { width: 15%; }
 th:nth-child(2), td:nth-child(2) { width: 47%; }
 th:nth-child(3), td:nth-child(3) { width: 38%; }
