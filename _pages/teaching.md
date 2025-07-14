@@ -15,6 +15,10 @@ I believe effective teaching goes beyond content delivery to foster curiosity, c
 
 ##### **Graduate Course**
 
+######**Date            Institution & University                            Course**
+2017–2022               K&K Int'l College, Tribhuvan University, Nepal      MSC 521: Research Methodology
+                                                                            RDS 564: Project Management
+
 | Date       | Institution & University                           | Course                                 |
 |------------|----------------------------------------------------|----------------------------------------|
 | 2017–2022  | K&K Int’l College, Tribhuvan University, Nepal     | MSC 521: Research Methodology          |
