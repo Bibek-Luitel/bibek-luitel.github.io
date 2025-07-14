@@ -15,73 +15,36 @@ I believe effective teaching goes beyond content delivery to foster curiosity, c
 
 ##### **Teaching Summary**
 
+
+<style>
+table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+th, td { padding: 8px; text-align: left; border: 1px solid #ddd; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+th:nth-child(1), td:nth-child(1) { width: 15%; }
+th:nth-child(2), td:nth-child(2) { width: 50%; }
+th:nth-child(3), td:nth-child(3) { width: 35%; }
+@media (max-width: 600px) { th, td { white-space: normal; font-size: 14px; } }
+</style>
+
+
+
 ##### **Graduate Course**
 
 | Date       | Institution & University                           | Course                                 |
 |------------|----------------------------------------------------|----------------------------------------|
-| 2017–2022  | K&K Int’l College, Tribhuvan University, Nepal     | MSC 521: Research Methodology          |
+| 2017–2022  | K&K Int’l College, Tribhuvan U., Nepal             | MSC 521: Research Methodology          |
 |            |                                                    | RDS 564: Project Management            |
-| 2010–2016  | IB&MS College, (Affl. with Bharathiar University)  | MBAC 2005: Strategic Management        |
+| 2010–2016  | IB&MS College, Bharathiar U., India                | MBAC 2005: Strategic Management        |
 |            |                                                    | MBAC 2003: Human Resources Management  |
 |            |                                                    | MBAC 1001: Principles of Management    |
 |            |                                                    | MBHR 4001: Organizational Development  |
-| 2011–2012  | Kavre Multiple Campus, Tribhuvan University, Nepal | MGT 513: Human Resource Management     |
-
-<br>
+| 2011–2012  | Kavre Multiple Campus, Tribhuvan U., Nepal         | MGT 513: Human Resource Management     |
 
 ##### **Undergraduate Course**
 
 | Date       | Institution & University                           | Course                                 |
 |------------|----------------------------------------------------|----------------------------------------|
-| 2007–2010  | Everest College, Tribhuvan University, Nepal       | MGT 206: Business Environment          |
+| 2007–2010  | Everest College, Tribhuvan U., Nepal               | MGT 206: Business Environment          |
 |            |                                                    | IMM 205: Management of Technology      |
 |            |                                                    | IMM 208: Industrial Relations          |
 |            |                                                    | MGT 202: Human Resources Management    |
-
-
-
-<style>
-  table.equal-width td:nth-child(2), 
-  table.equal-width th:nth-child(2) {
-    width: 45%;
-  }
-</style>
-
-<table class="equal-width">
-  <tr>
-    <th>Date</th>
-    <th>Institution & University</th>
-    <th>Course</th>
-  </tr>
-  <tr>
-    <td>2017–2022</td>
-    <td>K&K Int’l College, Tribhuvan University, Nepal</td>
-    <td>MSC 521: Research Methodology</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>RDS 564: Project Management</td>
-  </tr>
-  ...
-</table>
-
-<!-- Undergraduate table -->
-<table class="equal-width">
-  <tr>
-    <th>Date</th>
-    <th>Institution & University</th>
-    <th>Course</th>
-  </tr>
-  <tr>
-    <td>2007–2010</td>
-    <td>Everest College, Tribhuvan University, Nepal</td>
-    <td>MGT 206: Business Environment</td>
-  </tr>
-  ...
-</table>
-
-
-
-
 
