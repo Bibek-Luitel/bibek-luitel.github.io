@@ -20,8 +20,8 @@ I believe effective teaching goes beyond content delivery to foster curiosity, c
 table { width: 100%; border-collapse: collapse; table-layout: fixed; }
 th, td { padding: 8px; text-align: left; border: 1px solid #ddd; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 th:nth-child(1), td:nth-child(1) { width: 15%; }
-th:nth-child(2), td:nth-child(2) { width: 50%; }
-th:nth-child(3), td:nth-child(3) { width: 35%; }
+th:nth-child(2), td:nth-child(2) { width: 47%; }
+th:nth-child(3), td:nth-child(3) { width: 38%; }
 @media (max-width: 600px) { th, td { white-space: normal; font-size: 14px; } }
 </style>
 
