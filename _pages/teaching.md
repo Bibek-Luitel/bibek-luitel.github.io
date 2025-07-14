@@ -34,7 +34,7 @@ th:nth-child(3), td:nth-child(3) { width: 38%; }
 | 2017–2022  | K&K Int’l College, Tribhuvan University, Nepal             | MSC 521: Research Methodology          |
 |            |                                                    | RDS 564: Project Management            |
 | 2010–2016  | IB&MS College, Affil. with Bharathiar University                | MBAC 2005: Strategic Management        |
-|            |                                                    | MBAC 2003: Human Resources Management  |
+|            |                                                    | MBAC 2003: Human Resource Management  |
 |            |                                                    | MBAC 1001: Principles of Management    |
 |            |                                                    | MBHR 4001: Organizational Development  |
 | 2011–2012  | Kavre Multiple Campus, Tribhuvan University, Nepal         | MGT 513: Human Resource Management     |
@@ -47,5 +47,5 @@ th:nth-child(3), td:nth-child(3) { width: 38%; }
 | 2007–2010  | Everest College, Tribhuvan University, Nepal               | MGT 206: Business Environment          |
 |            |                                                    | IMM 205: Management of Technology      |
 |            |                                                    | IMM 208: Industrial Relations          |
-|            |                                                    | MGT 202: Human Resources Management    |
+|            |                                                    | MGT 202: Human Resource Management    |
 
