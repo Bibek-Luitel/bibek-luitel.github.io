@@ -8,10 +8,10 @@ nav_order: 3
 ---
 
 ##### **Overview**
-With over a decade of teaching experience, I have served as the main instructor for more than ten graduate and undergraduate courses in management and leadership at institutions affiliated with Tribhuvan University and Bharathiar University in Nepal, delivering both foundational and advanced courses.
+With over a decade of teaching experience, I have served as the main instructor for more than ten graduate and undergraduate courses in management and leadership at institutions affiliated with Tribhuvan University and Bharathiar University in Nepal, delivering both foundational and advanced courses. Read [Selected Student Feedback](https://bibekluitel.com/assets/pdf/student_feedback_bibekluitel.pdf)
 
 ##### **Philosophy**
-I believe effective teaching goes beyond content delivery to foster curiosity, critical thinking, and practical application, guided by a philosophy centered on learner engagement, contextual relevance, and inclusive pedagogy that cultivates a dynamic environment where students connect theory with real-world challenges.
+I believe effective teaching goes beyond content delivery to foster curiosity, critical thinking, and practical application, guided by a philosophy centered on learner engagement, contextual relevance, and inclusive pedagogy that cultivates a dynamic environment where students connect theory with real-world challenges. Read [Teaching Statement](https://bibekluitel.com/assets/pdf/teaching_statement_bibekluitel.pdf)
 
 ##### **Teaching Summary**
 
