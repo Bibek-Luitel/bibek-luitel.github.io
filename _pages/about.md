@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Candidate | Higher Ed Finance | Data Analytics <br> <a href='https://www.tamucc.edu/'>Texas A&M University-Corpus Christi</a>
+subtitle: Doctoral Candidate | Higher Ed Finance | Data Science | SAGE Fellow <br> <a href='https://www.tamucc.edu/'>Texas A&M University-Corpus Christi</a>
 profile:
   align: right
   image: prof_pic.jpg
