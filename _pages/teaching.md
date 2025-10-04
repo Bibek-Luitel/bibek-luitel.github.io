@@ -27,7 +27,7 @@ th:nth-child(3), td:nth-child(3) { width: 38%; }
 
 
 
-##### **Graduate Course**
+##### **Graduate (Master's Level) Course Taught**
 
 | Date       | Institution & University                           | Course                                 |
 |------------|----------------------------------------------------|----------------------------------------|
@@ -40,7 +40,7 @@ th:nth-child(3), td:nth-child(3) { width: 38%; }
 | 2011–2012  | Kavre Multiple Campus, Tribhuvan University, Nepal         | MGT 513: Human Resource Management     |
 
 <br>
-##### **Undergraduate Course**
+##### **Undergraduate (Bachelor's Level) Course Taught** 
 
 | Date       | Institution & University                           | Course                                 |
 |------------|----------------------------------------------------|----------------------------------------|
