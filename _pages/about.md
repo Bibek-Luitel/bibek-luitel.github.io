@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Faculty Center 212,</p>
+
     <p>6300 Ocean Dr.</p>
     <p>Corpus Christi, TX 78412</p>
 
@@ -28,7 +28,7 @@ latest_posts:
 
 
 
-I am a doctoral candidate in the [Department of Educational Leadership](https://www.tamucc.edu/education/departments/edld/index.php) at [Texas A&M University-Corpus Christi](https://www.tamucc.edu/).
+I am a doctoral candidate (Dissertation defended on 16 September 2025) in the [Department of Educational Leadership](https://www.tamucc.edu/education/departments/edld/index.php) at [Texas A&M University-Corpus Christi](https://www.tamucc.edu/).
 
  
 My research focuses on higher education finance, student financial aid, and the access and affordability of higher education for students from low socioeconomic backgrounds. As a scholar, I have co-authored research reports, books, and articles. I have presented my work at notable conferences, including the American Educational Research Association (AERA), the International Council of Professors of Educational Leadership (ICPEL), and the Southwest Educational Research Association (SERA).
