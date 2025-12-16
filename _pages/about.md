@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Educational Leadership & Administration | Data Science | SAGE Fellow <br> <a href='https://www.tamucc.edu/'>Texas A&M University-Corpus Christi</a>
+subtitle: Educational Leadership & Administration | Data Science | SAGE Fellow <br> <a [Department of Educational Leadership](https://www.tamucc.edu/education/departments/edld/index.php) at href='https://www.tamucc.edu/'>Texas A&M University-Corpus Christi</a>
 profile:
   align: right
   image: prof_pic.jpg
