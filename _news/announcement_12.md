@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 ***Vanguard Scholar Award*** recognized by the Department of Educational Leadership at Texas A&M University-Corpus Christi, acknowledging exceptional achievement and leadership during my doctoral studies.
+🏆 Honored to receive the ***Vanguard Scholar Award*** from the Department of Educational Leadership at Texas A&M University-Corpus Christi, recognizing academic achievement and leadership.

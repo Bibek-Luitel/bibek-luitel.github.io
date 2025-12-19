@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 I was formally conferred the ***Doctor of Education*** degree at commencement at Texas A&M University–Corpus Christi.
+🎓 Conferred the ***Doctor of Education*** degree at the Fall 2025 commencement at Texas A&M University–Corpus Christi.
