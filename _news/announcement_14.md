@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎤 Facilitated a panel discussion on “Tips for New Teachers” for aspiring educators at Texas A&M University–Corpus Christi.
+🎤 Facilitated a ***panel discussion*** on “Tips for New Teachers” for aspiring educators at Texas A&M University–Corpus Christi.

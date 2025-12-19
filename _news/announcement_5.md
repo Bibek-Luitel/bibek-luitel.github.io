@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💡Attened Pathways to Profession (P2P) Symposium at Tarleton State University, TAMUS, Texas.	
+💡Attened ***Pathways to Profession (P2P) Symposium*** at Tarleton State University, TAMUS, Texas.	

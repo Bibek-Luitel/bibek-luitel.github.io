@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my doctoral dissertation. :man_student:	
+I successfully ***defended*** my doctoral dissertation. :man_student:	

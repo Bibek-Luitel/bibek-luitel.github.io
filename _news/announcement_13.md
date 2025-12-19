@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 I was formally conferred the Doctor of Education (EdD) degree at commencement at Texas A&M University–Corpus Christi.
+🎓 I was formally conferred the ***Doctor of Education*** degree at commencement at Texas A&M University–Corpus Christi.

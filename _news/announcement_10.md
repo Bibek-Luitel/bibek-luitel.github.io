@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💡Attended the 2023 annual meeting of The Association of Texas Graduate Schools (ATGS) at Texas A&M University-Corpus Christi, Texas. 
+💡Attended the 2023 annual meeting of the ***Association of Texas Graduate Schools (ATGS)*** at Texas A&M University-Corpus Christi, Texas. 

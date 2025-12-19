@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:microphone:Presented my research at the SERA Annual Conference in San Antonio, Texas.
+:microphone:Presented my research at the ***SERA Annual Conference*** in San Antonio, Texas.
