@@ -103,8 +103,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_story_of_my_experiments_with_truth/";
-            },},{id: "news-started-doctoral-program-in-educational-leadership-and-administration-at-texas-a-amp-amp-m-university-corpus-christi",
-          title: '📚 Started doctoral program in educational leadership and administration at Texas A&amp;amp;amp;M University-Corpus...',
+            },},{id: "news-started-the-doctoral-studies-in-educational-leadership-and-administration-at-texas-a-amp-amp-m-university-corpus-christi",
+          title: '📚 Started the doctoral studies in Educational Leadership and Administration at Texas A&amp;amp;amp;M...',
           description: "",
           section: "News",},{id: "news-microphone-presentated-my-research-at-the-the-18th-annual-tamus-pathways-student-research-symposium-at-texas-a-amp-amp-m-university-at-galveston",
           title: ':microphone:Presentated my research at the the 18th Annual TAMUS Pathways Student Research Symposium...',
