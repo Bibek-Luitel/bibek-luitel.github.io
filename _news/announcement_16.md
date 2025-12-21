@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📚 Started ***doctoral program*** in educational leadership and administration at Texas A&M University-Corpus Christi.
+📚 Started the ***doctoral studies*** in Educational Leadership and Administration at Texas A&M University-Corpus Christi.
