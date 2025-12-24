@@ -28,45 +28,106 @@ layout: default
 
   <article>
     <div class="cv">
+      {% assign resume = site.data.resume %}
 
-      {% if site.data.resume %}
-        {% for section_name, content in site.data.resume %}
-          {% if content == nil or content.size == 0 %}
-            {% continue %}
-          {% endif %}
-          <a class="anchor" id="{{ section_name | slugify }}"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ section_name | capitalize }}</h3>
-            <div>
-              {% case section_name %}
-                {% when 'basics' %}
-                  {% include resume/basics.liquid section=content %}
-                {% when 'education' %}
-                  {% include resume/education.liquid section=content %}
-                {% when 'work' %}
-                  {% include resume/work.liquid section=content %}
-                {% when 'volunteer' %}
-                  {% include resume/volunteer.liquid section=content %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid section=content %}
-                {% when 'awards' %}
-                  {% include resume/awards.liquid section=content %}
-                {% when 'skills' %}
-                  {% include resume/skills.liquid section=content %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid section=content %}
-                {% when 'languages' %}
-                  {% include resume/languages.liquid section=content %}
-                {% when 'interests' %}
-                  {% include resume/interests.liquid section=content %}
-                {% when 'certificates' %}
-                  {% include resume/certificates.liquid section=content %}
-                {% when 'references' %}
-                  {% include resume/references.liquid section=content %}
-              {% endcase %}
-            </div>
-          </div>
-        {% endfor %}
+      {% comment %}
+      Render each section if it exists
+      {% endcomment %}
+
+      {% if resume.basics %}
+        <a class="anchor" id="basics"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Basics</h3>
+          {% include resume/basics.liquid section=resume.basics %}
+        </div>
+      {% endif %}
+
+      {% if resume.education %}
+        <a class="anchor" id="education"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Education</h3>
+          {% include resume/education.liquid section=resume.education %}
+        </div>
+      {% endif %}
+
+      {% if resume.work %}
+        <a class="anchor" id="work"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Work</h3>
+          {% include resume/work.liquid section=resume.work %}
+        </div>
+      {% endif %}
+
+      {% if resume.volunteer %}
+        <a class="anchor" id="volunteer"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Volunteer</h3>
+          {% include resume/volunteer.liquid section=resume.volunteer %}
+        </div>
+      {% endif %}
+
+      {% if resume.projects %}
+        <a class="anchor" id="projects"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Projects</h3>
+          {% include resume/projects.liquid section=resume.projects %}
+        </div>
+      {% endif %}
+
+      {% if resume.skills %}
+        <a class="anchor" id="skills"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Skills</h3>
+          {% include resume/skills.liquid section=resume.skills %}
+        </div>
+      {% endif %}
+
+      {% if resume.awards %}
+        <a class="anchor" id="awards"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Awards</h3>
+          {% include resume/awards.liquid section=resume.awards %}
+        </div>
+      {% endif %}
+
+      {% if resume.publications %}
+        <a class="anchor" id="publications"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Publications</h3>
+          {% include resume/publications.liquid section=resume.publications %}
+        </div>
+      {% endif %}
+
+      {% if resume.languages %}
+        <a class="anchor" id="languages"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Languages</h3>
+          {% include resume/languages.liquid section=resume.languages %}
+        </div>
+      {% endif %}
+
+      {% if resume.interests %}
+        <a class="anchor" id="interests"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Interests</h3>
+          {% include resume/interests.liquid section=resume.interests %}
+        </div>
+      {% endif %}
+
+      {% if resume.certificates %}
+        <a class="anchor" id="certificates"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">Certificates</h3>
+          {% include resume/certificates.liquid section=resume.certificates %}
+        </div>
+      {% endif %}
+
+      {% if resume.references %}
+        <a class="anchor" id="references"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">References</h3>
+          {% include resume/references.liquid section=resume.references %}
+        </div>
       {% endif %}
 
     </div>
