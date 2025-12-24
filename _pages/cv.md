@@ -1,5 +1,5 @@
 ---
-layout: cv 
+layout: none
 permalink: /cv/
 title: cv
 nav: true
@@ -9,4 +9,11 @@ description: Below are selected highlights from my CV. Please use the button abo
 toc:
   sidebar: left
 ---
+<script>
+  window.open("/assets/pdf/cv_full_bibekluitel.pdf", "_blank");
+  setTimeout(function () {
+    window.location.href = "/";
+  }, 300); // delay in milliseconds
+</script>
+
 
