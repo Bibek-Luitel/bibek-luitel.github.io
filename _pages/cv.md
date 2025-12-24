@@ -1,5 +1,5 @@
 ---
-layout: none 
+layout: cv 
 permalink: /cv/
 title: cv
 nav: true
@@ -10,9 +10,3 @@ toc:
   sidebar: left
 ---
 
-<script>
-  window.open("/assets/pdf/cv_full_bibekluitel.pdf", "_blank");
-  setTimeout(function () {
-    window.location.href = "/";
-  }, 300); // delay in milliseconds
-</script>
