@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -29,41 +28,76 @@ layout: default
 
   <article>
     <div class="cv">
-      {% for section_name in site.data.resume %}
-        {% assign section_content = site.data.resume[section_name] %}
-        <a class="anchor" id="{{ section_name | slugify }}"></a>
-        <div class="card mt-3 p-3">
-          <h3 class="card-title font-weight-medium">{{ section_name | capitalize }}</h3>
-          <div>
-            {% case section_name %}
-              {% when 'basics' %}
-                {% include resume/basics.liquid %}
-              {% when 'education' %}
-                {% include resume/education.liquid %}
-              {% when 'work' %}
-                {% include resume/work.liquid %}
-              {% when 'volunteer' %}
-                {% include resume/volunteer.liquid %}
-              {% when 'projects' %}
-                {% include resume/projects.liquid %}
-              {% when 'awards' %}
-                {% include resume/awards.liquid %}
-              {% when 'skills' %}
-                {% include resume/skills.liquid %}
-              {% when 'publications' %}
-                {% include resume/publications.liquid %}
-              {% when 'languages' %}
-                {% include resume/languages.liquid %}
-              {% when 'interests' %}
-                {% include resume/interests.liquid %}
-              {% when 'certificates' %}
-                {% include resume/certificates.liquid %}
-              {% when 'references' %}
-                {% include resume/references.liquid %}
-            {% endcase %}
+
+      {%- comment -%}
+      If JSON Resume exists (assets/json/resume.json), use it.
+      Otherwise fall back to data/cv.yml.
+      {%- endcomment -%}
+
+      {% if site.data.resume %}
+        {% for section_name in site.data.resume %}
+          {% assign content = site.data.resume[section_name] %}
+          {% if content == nil or content.size == 0 %}
+            {% continue %}
+          {% endif %}
+          <a class="anchor" id="{{ section_name | slugify }}"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">{{ section_name | capitalize }}</h3>
+            <div>
+              {% case section_name %}
+                {% when 'basics' %}
+                  {% include resume/basics.liquid %}
+                {% when 'education' %}
+                  {% include resume/education.liquid %}
+                {% when 'work' %}
+                  {% include resume/work.liquid %}
+                {% when 'volunteer' %}
+                  {% include resume/volunteer.liquid %}
+                {% when 'projects' %}
+                  {% include resume/projects.liquid %}
+                {% when 'awards' %}
+                  {% include resume/awards.liquid %}
+                {% when 'skills' %}
+                  {% include resume/skills.liquid %}
+                {% when 'publications' %}
+                  {% include resume/publications.liquid %}
+                {% when 'languages' %}
+                  {% include resume/languages.liquid %}
+                {% when 'interests' %}
+                  {% include resume/interests.liquid %}
+                {% when 'certificates' %}
+                  {% include resume/certificates.liquid %}
+                {% when 'references' %}
+                  {% include resume/references.liquid %}
+              {% endcase %}
+            </div>
           </div>
-        </div>
-      {% endfor %}
+        {% endfor %}
+
+      {% elsif site.data.cv %}
+        {% for entry in site.data.cv %}
+          <a class="anchor" id="{{ entry.title | slugify }}"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+            <div>
+              {% if entry.type == 'list' %}
+                {% include cv/list.liquid %}
+              {% elsif entry.type == 'map' %}
+                {% include cv/map.liquid %}
+              {% elsif entry.type == 'nested_list' %}
+                {% include cv/nested_list.liquid %}
+              {% elsif entry.type == 'time_table' %}
+                {% include cv/time_table.liquid %}
+              {% elsif entry.type == 'list_groups' %}
+                {% include cv/list_groups.liquid %}
+              {% else %}
+                {{ entry.contents }}
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      {% endif %}
+
     </div>
   </article>
 </div>
