@@ -4,56 +4,115 @@ layout: default
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}
+    <h1 class="post-title">
+      {{ page.title }}
+
       {% if page.cv_pdf %}
-        <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer" class="float-right">
+        <a
+          {% if page.cv_pdf contains '://' %}
+            href="{{ page.cv_pdf }}"
+          {% else %}
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+          {% endif %}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="float-right"
+        >
           <i class="fa-solid fa-file-pdf"></i>
         </a>
       {% endif %}
     </h1>
-    {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
+
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
   </header>
 
   <article>
     <div class="cv">
-      {% if site.data.resume %}
-        {% comment %} 
-          This loop FORCES the order based on your config.yml list
-        {% endcomment %}
-        {% for section in site.jsonresume %}
-          {% assign section_exists = site.data.resume[section] %}
-          
-          {% if section_exists %}
-            <a class="anchor" id="{{ section }}"></a>
-            <div class="card mt-3 p-3">
-              <h3 class="card-title font-weight-medium">{{ section | capitalize }}</h3>
-              <div>
-                {% if section == 'basics' %}
-                  {% include resume/basics.liquid %}
-                {% elsif section == 'education' %}
-                  {% include resume/education.liquid %}
-                {% elsif section == 'work' %}
-                  {% include resume/work.liquid %}
-                {% elsif section == 'publications' %}
-                  {% include resume/publications.liquid %}
-                {% elsif section == 'projects' %}
-                  {% include resume/projects.liquid %}
-                {% elsif section == 'awards' %}
-                  {% include resume/awards.liquid %}
-                {% elsif section == 'skills' %}
-                  {% include resume/skills.liquid %}
-                {% elsif section == 'languages' %}
-                  {% include resume/languages.liquid %}
-                {% elsif section == 'interests' %}
-                  {% include resume/interests.liquid %}
-                {% elsif section == 'references' %}
-                  {% include resume/references.liquid %}
-                {% endif %}
-              </div>
+
+      {%- comment -%}
+      If JSON resume is loaded, use site.data.resume.
+      Otherwise fall back to _data/cv.yml.
+      {%- endcomment -%}
+
+      {% unless site.data.resume %}
+
+        {% for entry in site.data.cv %}
+          <a class="anchor" id="{{ entry.title | slugify }}"></a>
+
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">
+              {{ entry.title }}
+            </h3>
+
+            <div>
+              {% if entry.type == 'list' %}
+                {% include cv/list.liquid %}
+              {% elsif entry.type == 'map' %}
+                {% include cv/map.liquid %}
+              {% elsif entry.type == 'nested_list' %}
+                {% include cv/nested_list.liquid %}
+              {% elsif entry.type == 'time_table' %}
+                {% include cv/time_table.liquid %}
+              {% elsif entry.type == 'list_groups' %}
+                {% include cv/list_groups.liquid %}
+              {% else %}
+                {{ entry.contents }}
+              {% endif %}
             </div>
-          {% endif %}
+          </div>
         {% endfor %}
-      {% endif %}
+
+      {% else %}
+
+        {% assign ordered_sections =
+          "basics,education,work,publications,projects,skills,awards"
+          | split: ","
+        %}
+
+        {% for section in ordered_sections %}
+          {% assign data = site.data.resume[section] %}
+          {% if data == nil or data.size == 0 %}
+            {% continue %}
+          {% endif %}
+
+          <a class="anchor" id="{{ section }}"></a>
+
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">
+              {{ section | capitalize }}
+            </h3>
+
+            <div>
+              {% case section %}
+                {% when "basics" %}
+                  {% include resume/basics.liquid %}
+
+                {% when "education" %}
+                  {% include resume/education.liquid %}
+
+                {% when "work" %}
+                  {% include resume/work.liquid %}
+
+                {% when "publications" %}
+                  {% include resume/publications.liquid %}
+
+                {% when "projects" %}
+                  {% include resume/projects.liquid %}
+
+                {% when "skills" %}
+                  {% include resume/skills.liquid %}
+
+                {% when "awards" %}
+                  {% include resume/awards.liquid %}
+              {% endcase %}
+            </div>
+          </div>
+        {% endfor %}
+
+      {% endunless %}
+
     </div>
   </article>
 </div>
