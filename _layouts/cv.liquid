@@ -18,42 +18,40 @@ layout: default
     <div class="cv">
       {% if site.data.resume %}
         {% comment %} 
-          This loop specifically uses the order defined in _config.yml
+          This loop FORCES the order based on your config.yml list
         {% endcomment %}
-        {% for section_name in site.jsonresume %}
-          {% assign section_data = site.data.resume[section_name] %}
+        {% for section in site.jsonresume %}
+          {% assign section_exists = site.data.resume[section] %}
           
-          {% comment %} Skip if there is no data for this specific section {% endcomment %}
-          {% if section_data == null or section_data.size == 0 %}{% continue %}{% endif %}
-
-          <a class="anchor" id="{{ section_name }}"></a>
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ section_name | capitalize }}</h3>
-            <div>
-              {% case section_name %}
-                {% when 'basics' %}{% include resume/basics.liquid %}
-                {% when 'education' %}{% include resume/education.liquid %}
-                {% when 'work' %}{% include resume/work.liquid %}
-                {% when 'publications' %}{% include resume/publications.liquid %}
-                {% when 'projects' %}{% include resume/projects.liquid %}
-                {% when 'awards' %}{% include resume/awards.liquid %}
-                {% when 'skills' %}{% include resume/skills.liquid %}
-                {% when 'volunteer' %}{% include resume/volunteer.liquid %}
-                {% when 'certificates' %}{% include resume/certificates.liquid %}
-                {% when 'languages' %}{% include resume/languages.liquid %}
-                {% when 'interests' %}{% include resume/interests.liquid %}
-                {% when 'references' %}{% include resume/references.liquid %}
-              {% endcase %}
+          {% if section_exists %}
+            <a class="anchor" id="{{ section }}"></a>
+            <div class="card mt-3 p-3">
+              <h3 class="card-title font-weight-medium">{{ section | capitalize }}</h3>
+              <div>
+                {% if section == 'basics' %}
+                  {% include resume/basics.liquid %}
+                {% elsif section == 'education' %}
+                  {% include resume/education.liquid %}
+                {% elsif section == 'work' %}
+                  {% include resume/work.liquid %}
+                {% elsif section == 'publications' %}
+                  {% include resume/publications.liquid %}
+                {% elsif section == 'projects' %}
+                  {% include resume/projects.liquid %}
+                {% elsif section == 'awards' %}
+                  {% include resume/awards.liquid %}
+                {% elsif section == 'skills' %}
+                  {% include resume/skills.liquid %}
+                {% elsif section == 'languages' %}
+                  {% include resume/languages.liquid %}
+                {% elsif section == 'interests' %}
+                  {% include resume/interests.liquid %}
+                {% elsif section == 'references' %}
+                  {% include resume/references.liquid %}
+                {% endif %}
+              </div>
             </div>
-          </div>
-        {% endfor %}
-      {% else %}
-        {% comment %} Fallback for standard cv.yml format {% endcomment %}
-        {% for entry in site.data.cv %}
-          <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-            {% include cv/time_table.liquid %}
-          </div>
+          {% endif %}
         {% endfor %}
       {% endif %}
     </div>
