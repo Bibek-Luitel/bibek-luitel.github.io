@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Conferred the ***Doctor of Education*** degree at the Fall 2025 commencement at Texas A&M University–Corpus Christi.
+🎓 Conferred the ***Doctor of Education in Educational Leadership and Administration*** degree at the Fall 2025 commencement at Texas A&M University–Corpus Christi.
